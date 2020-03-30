@@ -1,0 +1,13 @@
+abcdefghi
+
+abcdfghi
+
+abcdef
+
+abcdfg
+
+ACGT
+
+ACCT
+
+Ligne impaire qui ne sera pas traitée
