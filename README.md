@@ -1,1 +1,1 @@
-# cattan_projet_classes
+Rendu de l'évaluation de python (POO)
